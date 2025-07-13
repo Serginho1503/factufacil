@@ -1,0 +1,20 @@
+AÑADIR A LA TABLA PRODUCTOS
+
+	idcla	int	11	0	-1	0	0	0	0		0					0	0
+------------------------------------------------------------------------------------
+CREAR TABLA CLASIFICACION
+
+	SET FOREIGN_KEY_CHECKS=0;
+
+	DROP TABLE IF EXISTS `clasificacion`;
+	CREATE TABLE `clasificacion` (
+	  `id_cla` int(11) NOT NULL AUTO_INCREMENT,
+	  `nom_cla` varchar(255) NOT NULL,
+	  PRIMARY KEY (`id_cla`)
+	) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+
+	INSERT INTO `clasificacion` VALUES ('1', 'Cocina');
+	INSERT INTO `clasificacion` VALUES ('2', 'Barra');
+	SET FOREIGN_KEY_CHECKS=1;	
+-----------------------------------------------------------------------------	

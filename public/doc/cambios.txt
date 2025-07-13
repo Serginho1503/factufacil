@@ -1,0 +1,5 @@
+Tabla venta_tmp: añadir el campo id_proforma
+Procedure: proforma_facturar añadir el campo id_proforma en la consulta y en la insercion
+
+Facturar_Model: function carga_cliente:-> se añadio cuando es nueva facturacion el campo id_proforma = 0 linea 657
+

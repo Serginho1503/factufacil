@@ -1,0 +1,96 @@
+.icon-blank{
+	background:url('easytree/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('easytree/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('easytree/pencil.png') no-repeat center center;
+}
+.icon-clear{
+	background:url('easytree/clear.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('easytree/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('easytree/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('easytree/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('easytree/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('easytree/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('easytree/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('easytree/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('easytree/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('easytree/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('easytree/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('easytree/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('easytree/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('easytree/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('easytree/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('easytree/tip.png') no-repeat center center;
+}
+.icon-filter{
+	background:url('easytree/filter.png') no-repeat center center;
+}
+.icon-man{
+	background:url('easytree/man.png') no-repeat center center;
+}
+.icon-lock{
+	background:url('easytree/lock.png') no-repeat center center;
+}
+.icon-more{
+	background:url('easytree/more.png') no-repeat center center;
+}
+
+
+.icon-mini-add{
+	background:url('easytree/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('easytree/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('easytree/mini_refresh.png') no-repeat center center;
+}
+
+.icon-large-picture{
+	background:url('easytree/large_picture.png') no-repeat center center;
+}
+.icon-large-clipart{
+	background:url('easytree/large_clipart.png') no-repeat center center;
+}
+.icon-large-shapes{
+	background:url('easytree/large_shapes.png') no-repeat center center;
+}
+.icon-large-smartart{
+	background:url('easytree/large_smartart.png') no-repeat center center;
+}
+.icon-large-chart{
+	background:url('easytree/large_chart.png') no-repeat center center;
+}
